@@ -1,0 +1,25 @@
+<resources>
+	<string name="general_settings">Ajustes Generales</string>
+	<string name="notification_summary_on">Se mostrará una notificación cuando se desbloquee un logro</string>
+	<string name="notification_summary_off">No se mostrará una notificación cuando se desbloquee un logro</string>
+	<string name="show_notification">Mostrar notificación</string>
+	
+	<string name="achievements">Logros</string>
+	<string name="hidden_phonechievements_summary_off">Logros ocultos no están siendo mostrados</string>
+	<string name="hidden_phonechievements_summary_on">Logros ocultos están siendo mostrados</string>
+	<string name="show_hidden_phonechievements">Mostrar logros ocultos</string>
+	<string name="show_unlocked_phonechievements">Mostrar logros desbloqueados</string>
+	<string name="unlocked_phonechievements_summary_off">Logros desbloqueados no están siento mostrados</string>
+	<string name="unlocked_phonechievements_summary_on">Logros desbloqueados están siento mostrados</string>
+	<string name="expandable_achievement_list_summary_on">Lista de logros es expandible</string>
+	<string name="expandable_achievement_list_summary_off">Lista de logros no es expandible</string>
+	<string name="expandable_achievement_list">Lista de logros expandible</string>
+	
+	<string name="gps">GPS</string>
+	<string name="gps_query">Consulta GPS</string>
+	<string name="gps_query_summary">Cambiar consulta de GPS a ON u OFF</string>
+	
+	<string name="popup_notification">Notificación Emergente</string>
+	<string name="popup_notification_enable">Activar notificación emergente</string>
+	<string name="vibration">Activar vibración</string>
+</resources>
